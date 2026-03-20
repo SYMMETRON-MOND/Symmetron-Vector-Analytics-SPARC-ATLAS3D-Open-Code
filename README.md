@@ -1,4 +1,6 @@
-<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI"></a>
+[![DOI](https://zenodo.org)](https://doi.org)
+
+
 
 # Mi Proyecto
 
